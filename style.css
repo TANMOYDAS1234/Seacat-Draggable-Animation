@@ -57,7 +57,7 @@ html, body{
     left: 50%;
     transform: translate(-50%,0%);
     z-index: 10;
-    width: 10vw;
+    width: 5vw;
     height: 2vw;
     /* background-color: aliceblue; */
     background-color: #111;
@@ -92,7 +92,7 @@ html, body{
 
 @media (max-width: 500px) {
     .container{
-        width: 10vh;
+        width: 5vh;
     height: 2vh;
     }
     #dragme, .cir{
